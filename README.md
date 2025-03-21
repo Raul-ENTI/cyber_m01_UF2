@@ -18,4 +18,16 @@ Ejercicio de protocolos y otros scripts de la UF2 de Sistemas de Ciberseguridad
 Pero también..
 
 > Podemos tener
->> Citas dentro de citas xD
+>> Citas dentro de citas 
+
+### Listado Sin Orden
+- Exacto
+- locotron
+- PIMPA
+
+### Listados ordenados
+
+1. Primer
+2. Segun
+3. Tercero
+4. Cuarto
