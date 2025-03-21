@@ -31,3 +31,13 @@ Pero también..
 2. Segun
 3. Tercero
 4. Cuarto
+
+Esto es javascript `console.log("hola")`
+
+Y esto es un bloque de código
+
+```css
+body{
+margin:0;
+}
+```
