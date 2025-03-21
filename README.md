@@ -41,3 +41,20 @@ body{
 margin:0;
 }
 ```
+
+## Anotaciones y Avisos
+
+> [!NOTE]
+> Esto es un nota
+
+> [!TIP]
+> Esto es el resaltado
+
+> [!WARNING]
+> Algo puede salir mal!
+
+> [!IMPORTANT]
+> Ojito no te dejes el **WHERE** en el **DELETE FROM**
+
+> [!CAUTION]
+> Cuidado!!!!!!!!
