@@ -58,3 +58,17 @@ margin:0;
 
 > [!CAUTION]
 > Cuidado!!!!!!!!
+
+## Enlaces
+
+[Esto es un enlace](https://enti.cat)
+
+## Imágenes
+
+![Selfie](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGg7_jrxyIPcao3DR24K5B2LAZpqHS7J0eLoPgzrlP2qNCtDwcGKsEgJriRm7mHqr_r_hBd5iLTzB5pOcXcB0vysnrA4E1fJXjyj07XA)
+
+## Lista de tareas
+
+- [x] Pollo
+- [ ] Agua
+- [ ] Arroz
